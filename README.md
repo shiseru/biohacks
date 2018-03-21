@@ -1,6 +1,6 @@
 Name
 ====
-Attract
+Project Feature
 
 Overview
 The program outputs image showing the proportion of the traits in tissues which yet undescoverd.
